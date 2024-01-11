@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a secret web!<br>🌱 I’m currently learning Java<br>💬 Ask me anything!<br>⚡ Fun fact - I'm white
+🔭 I’m currently working on a Source Code<br>🌱 I’m currently learning js<br>💬 Ask me anything(do not)<br>⚡ Fun fact - I'm white
 
 
 ## 🌐 Socials:
