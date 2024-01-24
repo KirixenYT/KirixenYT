@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Source Code<br>🌱 I’m currently learning vue<br>💬 Ask me anything(do not)<br>⚡ Fun fact - I'm white
+🔭 I’m currently working on smth<br>⚡ Fun fact - I'm white
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KirixenYT&icon=9&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
