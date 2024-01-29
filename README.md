@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<img align="left" src="img/Kiyotaka_Ayanokouenji.webp" width="200px"/> 
+<img align="left" src="bocchi.png" width="200px"/> 
 
 ```csharp
 -------------------------------
