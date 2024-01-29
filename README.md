@@ -48,10 +48,6 @@ Hobbies: Gaming,watching anime,coding while I am listening music
         <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=KiriXenYT&theme=radical&row=4&column=4"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiriXenYT&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=KiriXenYT&theme=redical"/>
-    </a>
-
 </p>
 </div>
 <br>
@@ -67,7 +63,7 @@ Hobbies: Gaming,watching anime,coding while I am listening music
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://youtube.com/@KiriXenYT" target="_blank">
-<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 </div>  
 
