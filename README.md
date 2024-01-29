@@ -42,7 +42,6 @@ Hobbies: Gaming,watching anime,coding while I am listening music
     </a>
 </p>
 </div>
-<br>
 
 <h2 align = "center"> Stats </h2>
 <div> 
