@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on smth<br>⚡ Fun fact - I'm white
+<div align="center">
+<a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=K%20I%20R%20I%20X%20E%20N%20Y%20T%20&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+</a>
+    <p>
+        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
+        </a>
+    </p>
+</div>
+
 
 
 ## 🌐 Socials:
