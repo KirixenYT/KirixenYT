@@ -21,7 +21,6 @@
 <img align="left" src="bocchi.png" width="200px"/> 
 
 ```csharp
--------------------------------
 Username: KiriXen
 Fav.Anime(1): Tower of God
 Fav.Anime(2): Seirei Gensouki
