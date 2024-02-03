@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<img align="left" src="bocchi.png" width="200px"/> 
+<img align="left" src="bocchi.png" width="100px"/> 
 
 ```csharp
 Username: KiriXen
@@ -29,18 +29,6 @@ Languages: Js, Python, Ts
 Learning: Vue
 Hobbies: Gaming,watching anime,coding while I am listening music
 ```
-
-<div>
-<h2 align="center"> Knowledge </h2>
-</div>
-<div align = "center">
-<p align = "justify">I focus on web dev as Javascript and Typescript. My programming languages are Js, Css, Python, and Vue. In other hand, My knowledge languages are English. Check my repositories and give your opinion I'll do my best and be better every day. At last, I love watching anime and reading manga. <br></p>
-<p align = "center">
-     <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=github,py,css,html,js&perline=8"alt="My Skills"/> 
-    </a>
-</p>
-</div>
 
 <h2 align = "center"> Stats </h2>
 <div> 
