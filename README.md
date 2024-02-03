@@ -22,10 +22,10 @@
 
 ```csharp
 Username: KiriXen
-Fav.Anime(1): Tower of God
-Fav.Anime(2): Seirei Gensouki
+Fav Anime: Tower of God
+Fav Anime: Seirei Gensouki
 Pronouns: He/Him
-Languages: Js, Python, Ts
+Languages: Js, and sum Vue
 Learning: Vue
 Hobbies: Gaming,watching anime,coding while I am listening music
 ```
