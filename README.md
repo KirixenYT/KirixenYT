@@ -23,7 +23,7 @@
 ```csharp
 Username: KiriXen
 Fav Anime: Tower of God
-Fav Anime: Seirei Gensouki
+Fav Anime2: Seirei Gensouki
 Pronouns: He/Him
 Languages: Js, and sum Vue
 Learning: Vue
