@@ -35,10 +35,10 @@ Hobbies: Gaming,watching anime,coding while I am listening music
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=KiriXenYT&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
     </a>
+    <br>
+    <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="150%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=KiriXenYT&theme=radical&row=1&column=8"/>
     </a>
 </p>
 </div>
-<br>
-<br>
