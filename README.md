@@ -12,6 +12,9 @@
 <a href="https://youtube.com/@KiriXenYT" target="_blank">
 <img src=https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
+<a href="https://dsc.gg/kirixen" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>    
 </div>
 
 <img align="left" src="bocchi.png" width="100px"/> 
