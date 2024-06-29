@@ -25,8 +25,8 @@ Username: KiriXen
 Fav Anime: Tower of God
 Fav Anime2: Seirei Gensouki
 Pronouns: He/Him
-Languages: Js, and sum Vue
-Learning: Vue
+Languages: Js(react) and html
+Learning: PHP
 Hobbies: Gaming,watching anime,coding while I am listening music
 ```
 
